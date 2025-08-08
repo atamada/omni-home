@@ -1,4 +1,14 @@
-{ "name": "omuni-home", "version": "1.0.0", "scripts": {
+"scripts": {
   "dev": "next dev",
   "build": "next build"
-}, "dependencies": { "next": "latest", "react": "latest", "react-dom": "latest" } }
+},
+"dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest"
+},
+"devDependencies": {
+  "typescript": "latest",
+  "@types/react": "latest",
+  "@types/node": "latest"
+}
